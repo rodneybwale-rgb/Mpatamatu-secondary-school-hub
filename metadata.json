@@ -1,0 +1,6 @@
+{
+  "name": "Mpatamatu Secondary School Hub",
+  "description": "Official school portal and mobile app for Mpatamatu Secondary School with real-time push notifications, ECZ grade updates, WhatsApp-style group chats, and student records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
